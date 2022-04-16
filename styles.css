@@ -1,0 +1,23 @@
+body{
+    background-color:#DFDFDE;
+}
+hr{
+    border-color:grey;
+    border-style:none;
+    border-bottom-style:dotted;
+    border-width:5px;
+    width:5%;
+}
+img:hover{
+    background-color:rgb(10, 10, 10);
+}
+.contact{
+    color:blue;
+}
+h2{
+    color:#66BFBF;
+}
+#heading{
+    color:#066163;
+}
+
